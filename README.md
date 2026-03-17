@@ -1,14 +1,4 @@
-# Hi, I'm Stevie 👾
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180§ion=header&text=Stevie%20Zouri&fontSize=42&fontAlignY=38&desc=Product%20%7C%20Games%20%7C%20Building%20things&descAlignY=58" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/stevie-zouri"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Women%20in%20Games-Ambassador-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Certified-ScrumMaster%C2%AE-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" />
-</p>
+# Hi, I'm Stevie! 👾
 
 ---
 
@@ -18,12 +8,7 @@ Product manager and game producer getting into software development to better br
 
 - 🕹️ **Product Lead** at daffokid. & **Lead Producer** at Know Buddy Games
 - 🏦 Previously **Project Management Co-Op at CIBC**
-- 🎨 **Graphic Designer** for Universal Creative (yes, that Universal)
 - 🌱 Currently learning to **vibe code** — Python, JavaScript, HTML/CSS
-- 🤝 **Women in Games Ambassador**
-- 📍 Based in Toronto, Canada
-
-> *"The future of gaming at Toronto Metropolitan University is brighter than ever, and this is just the beginning."*
 
 ---
 
@@ -50,19 +35,3 @@ Product manager and game producer getting into software development to better br
 - 🌐 Learning how to go from idea → shipped product end-to-end
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afkstevie&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afkstevie&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100§ion=footer" />
-</p>
